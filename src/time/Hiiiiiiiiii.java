@@ -6,7 +6,8 @@ public class Hiiiiiiiiii {
 		System.out.println("saskeeeeeeeeeeee!!!!!!!!!!!!!!!");
 		System.out.println("narutoooooooooooooooooo!!!!!!!!!!");
 		System.out.println("rasengan!!!!!!!!!!!!");
-		
+		System.out.println("chidori!!!!!!!!!!!!!");
+		System.out.println("hi");
 	}
 	
 	
