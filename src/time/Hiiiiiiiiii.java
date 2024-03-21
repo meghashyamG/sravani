@@ -8,8 +8,8 @@ public class Hiiiiiiiiii {
 		System.out.println("rasengan!!!!!!!!!!!!");
 		System.out.println("chidori!!!!!!!!!!!!!");
 		System.out.println("hi");
-	}
-	
-	
-	
+		System.out.println("shyam is more than awesome");
+		System.out.println("shyam is patience");
+		
+	}
 }
